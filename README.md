@@ -34,3 +34,7 @@ npm install pc-bootstrap4-datetimepicker
 * JS DOM class name control
 * CSS stylesheet
 * Replaced glyphicon with font-awesome icons
+
+## Changes from gizmore
+
+* Bootstrap5 patches if required
